@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.g2d_flutter"
+    namespace = "ui.doublegsoft.g2d"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
